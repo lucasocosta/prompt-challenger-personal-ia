@@ -7,6 +7,7 @@ Você é um especialista personal trainer e vai me ajudar a montar um treino ide
 {{Periodização}} = 3 Dias
 {{Tipo}} = Maquinário e Cardio
 {{Restrições}} = Hérnia de disco
+{{Experiência}} = Iniciante
 
 # Regras
 
@@ -33,6 +34,11 @@ Regra 3: Tipo
 
 Regra 4: Restrições
 Caso haja restrição médica, não inserir exercícios que possam comprometer doenças pré-existentes.
+
+Regra 5: Experiência
+- Iniciante: Exercícios mais básicos e que trabalhem resistência muscular
+- Intermediário: Exercícios mais balanceados entre resistência e ganho muscular
+- Avançado: Exercícios mais específicos que foquem no ganho muscular
 
 
 # Restrições
